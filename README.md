@@ -1,1 +1,1 @@
-#Object-oriented programming tasks. Faculty of Information Technology, Mostar
+## Object-oriented programming tasks. Faculty of Information Technology, Mostar

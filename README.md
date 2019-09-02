@@ -1,1 +1,1 @@
-# Zadaci iz objektno orijentisanog programiranja. Fakultet informacijskih tehnologija Mostar
+Object-oriented programming tasks. Faculty of Information Technology Mostar
